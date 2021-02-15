@@ -1,0 +1,41 @@
+.modal-dialog.cat-admin-umang {
+    max-width: 50%;
+}
+button.close.umang-close {
+    padding: 7px;
+    font-weight: 300;
+}
+.modal-header.umang-modal-head {
+    border: none;
+}
+.catagory-umang-modal img {
+    width: 100px;
+}
+.catagory-umang-modal ul {
+    width: 100%;
+}
+.catagory-umang-modal ul li {
+    padding: 10px;
+}
+.catagory-umangmodal .content {
+    margin-left: 20px;
+}
+.d-flex.add-cartumang .thumb img {
+    width: 100px;
+    border-radius: 7px;
+    box-shadow: 0 0 6px 1px #00000038;
+}
+.d-flex.add-cartumang {
+    padding: 10px 40px;
+    border-bottom: 1px solid #efefef;
+}
+.catagory-umangmodal .content .title {
+    font-size: 17px;
+}
+.catagory-umangmodal .content .title a {
+    color: #000;
+    font-weight: 500;
+}
+.catagory-umangmodal li {
+    cursor: pointer;
+}
